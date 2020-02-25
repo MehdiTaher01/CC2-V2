@@ -1,0 +1,10 @@
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\bin\Debug\CC2-V2.exe
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\bin\Debug\CC2-V2.pdb
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2_V2.Client.resources
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2_V2.Properties.Resources.resources
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2-V2.csproj.GenerateResource.cache
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2-V2.csproj.CoreCompileInputs.cache
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2-V2.exe
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2-V2.pdb
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2_V2.reservation.resources
+C:\Users\HP 8470P\Desktop\CC2-V2\CC2-V2\obj\Debug\CC2_V2.menu.resources
